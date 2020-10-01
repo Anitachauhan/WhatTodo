@@ -43,7 +43,7 @@ You can add multiple labels by clicking add Labels button on SideDrawer. From ma
 
 > You can assign multiple labels to a single task
 
-## Task
+## Task!
 You can add task with multiple attributes. You must assign a project to task if not than by default it will be added in _Inbox_ project.
 Task can have zero or more to label assing to it
 
