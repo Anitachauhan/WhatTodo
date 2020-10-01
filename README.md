@@ -25,12 +25,12 @@ This diagram show case the dependencies to create a feature specific BLoCs.The H
 ![](https://i.imgur.com/byajGE7.png)
 
 ## Widget-BLoC Relationship
-This diagram shows that how each widget uses BLoCs.
+This diagram shows that how each widget uses BLoCs .
 
 ![](https://i.imgur.com/fHGTASw.png)
 
 ## Project
-The app already has a preloaded **_Inbox_** project. You can add more projects by clicking add project button on SideDrawer. From material color list you can specify any single color to the project
+The app already has a preloaded **_Inbox_** project. You can add more projects by clicking add project button on SideDrawer. From material color list you can specify any single color to the project.
 
 ![](https://i.imgur.com/f01IjGz.gif)
 
@@ -41,7 +41,7 @@ You can add multiple labels by clicking add Labels button on SideDrawer. From ma
 
 ![](https://i.imgur.com/tZQgEwW.gif)
 
-> You can assign multiple labels to a single task
+> You can assign multiple labels to a single task.
 
 ## Task!
 You can add task with multiple attributes. You must assign a project to task if not than by default it will be added in _Inbox_ project.
@@ -55,7 +55,7 @@ You can delete a task by swiping left-to-right or your can mark task as complete
 ![](https://i.imgur.com/yU0gP1t.gif)
 
 ## Sorting
-You can sort your task with date i.e today and next 7 days and also acoording to project and labels
+You can sort your task with date i.e today and next 7 days and also acoording to project and labels.
 
 ![](https://i.imgur.com/wzou22S.gif)
 
